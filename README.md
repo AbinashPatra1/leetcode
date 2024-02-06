@@ -1,1 +1,1 @@
-Collection of Leetcode DSA problems & slutions in typescript.
+Collection of Leetcode DSA problems & solutions in typescript.
